@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Thanjira 👋
 
-<!--
-**athanjira/athanjira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer in Munich with 7+ years of product development in **Angular and TypeScript**, plus a background in **UX**.
 
-Here are some ideas to get you started:
+### Tech
+`Angular` `TypeScript` `JavaScript` `HTML5` `SCSS` `D3` `Java` `Spring Boot` `MongoDB` `Vitest` `Cypress` `Git` `Jenkins`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Elsewhere
+[LinkedIn](https://www.linkedin.com/in/thanjira-amornkosit)
+
+
+
+
+
+
